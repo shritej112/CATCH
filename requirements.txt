@@ -1,0 +1,4 @@
+opencv
+face_recognition
+imutils
+dlib
